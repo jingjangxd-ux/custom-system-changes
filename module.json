@@ -1,7 +1,7 @@
 {
-  "id": "custom-currency-icons",
-  "title": "Custom Currency Icons (PF2e)",
-  "description": "Overrides the PF2e coin icons on character sheets with your own images.",
+  "id": "custom-system-changes",
+  "title": "PF2E Custom System Changes",
+  "description": "Changes specific elements of the PF2E system.",
   "version": "1.0.0",
   "authors": [
     {
@@ -16,10 +16,10 @@
     "pf2e"
   ],
   "styles": [
-    "styles/custom-currency.css"
+    "styles/custom-system-changes.css"
   ],
   "url": "https://example.com/your-project-homepage",
   "manifest": "https://raw.githubusercontent.com/jingjangxd-ux/custom-system-changes/main/module.json",
-  "download": "https://raw.githubusercontent.com/jingjangxd-ux/custom-system-changes/main/custom-currency-icons.zip",
+  "download": "https://raw.githubusercontent.com/jingjangxd-ux/custom-system-changes/main/custom-system-changes.zip",
   "license": "MIT"
 }
