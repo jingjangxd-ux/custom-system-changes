@@ -19,7 +19,7 @@
     "styles/custom-currency.css"
   ],
   "url": "https://example.com/your-project-homepage",
-  "manifest": "https://assets.forge-vtt.com/63f7f91167c3b035b405caac/modules/custom-currency-icons/module.json",
-  "download": "https://assets.forge-vtt.com/63f7f91167c3b035b405caac/modules/custom-currency-icons/custom-currency-icons.zip",
+  "manifest": "https://assets.forge-vtt.com/63f7f91167c3b035b405caac/modules/custom-system-changes/module.json",
+  "download": "https://assets.forge-vtt.com/63f7f91167c3b035b405caac/modules/custom-system-changes/custom-currency-icons.zip",
   "license": "MIT"
 }
