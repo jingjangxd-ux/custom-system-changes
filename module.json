@@ -1,0 +1,25 @@
+{
+  "id": "custom-currency-icons",
+  "title": "Custom Currency Icons (PF2e)",
+  "description": "Overrides the PF2e coin icons on character sheets with your own images.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "You"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systems": [
+    "pf2e"
+  ],
+  "styles": [
+    "styles/custom-currency.css"
+  ],
+  "url": "https://example.com/your-project-homepage",
+  "manifest": "https://assets.forge-vtt.com/63f7f91167c3b035b405caac/modules/custom-currency-icons/module.json",
+  "download": "https://assets.forge-vtt.com/63f7f91167c3b035b405caac/modules/custom-currency-icons/custom-currency-icons.zip",
+  "license": "MIT"
+}
