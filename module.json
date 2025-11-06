@@ -2,8 +2,8 @@
   "id": "custom-system-changes",
   "type": "module",
   "title": "PF2E Custom System Changes",
-  "description": "Coin tweaks + duplicate blank rune option labeled 'Specific Magic Item' with persistent selection.",
-  "version": "1.3.1",
+  "description": "Coin tweaks + duplicate blank rune option ('Specific Magic Item') with per-slot persistence.",
+  "version": "1.3.2",
   "authors": [
     {
       "name": "You"
