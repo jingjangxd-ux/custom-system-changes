@@ -2,8 +2,8 @@
   "id": "custom-system-changes",
   "type": "module",
   "title": "PF2E Custom System Changes",
-  "description": "Adds cosmetic coin tweaks and renames the blank weapon property rune option to 'Specific Magic Weapon'.",
-  "version": "1.2.7",
+  "description": "Coin icon tweaks plus a labeled duplicate of the blank weapon property rune option.",
+  "version": "1.2.8",
   "authors": [
     {
       "name": "You"
