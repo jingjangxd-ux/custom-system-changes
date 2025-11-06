@@ -1,8 +1,9 @@
 {
   "id": "custom-system-changes",
+  "type": "module",
   "title": "PF2E Custom System Changes",
-  "description": "Changes specific elements of the PF2E system.",
-  "version": "1.0.0",
+  "description": "Adds cosmetic coin tweaks and renames the blank weapon property rune option to 'Specific Magic Weapon'.",
+  "version": "1.2.7",
   "authors": [
     {
       "name": "You"
@@ -12,14 +13,24 @@
     "minimum": "12",
     "verified": "12"
   },
-  "systems": [
-    "pf2e"
-  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e"
+      }
+    ]
+  },
   "styles": [
     "styles/custom-system-changes.css"
   ],
-  "url": "https://example.com/your-project-homepage",
+  "scripts": [
+    "scripts/custom-system-changes.js"
+  ],
+  "esmodules": [
+    "scripts/custom-system-changes.js"
+  ],
   "manifest": "https://raw.githubusercontent.com/jingjangxd-ux/custom-system-changes/main/module.json",
   "download": "https://raw.githubusercontent.com/jingjangxd-ux/custom-system-changes/main/custom-system-changes.zip",
+  "url": "https://example.com/your-project-homepage",
   "license": "MIT"
 }
